@@ -2,10 +2,10 @@
 //  main.swift
 //  SushiReviews
 //
-//  Created by Mark Wong on 2022-04-05.
+//  Created by Mark Wong on 2022-03-25.
 //
 
 import Foundation
 
-print("Hello, World!")
+sushiReviews()
 
